@@ -7,9 +7,14 @@ Notes
 To initially start this application, you have two credentials:
 
 Username: Administrator
+
 Password: password
+
 or
 
 Username: employee
+
 Password: 12345
+
 Signing in as guest requires no username or password inputs.
+
