@@ -1,6 +1,6 @@
-# Full-Stack-Python-Application
+# Art-Museum-Database-Management-System
 
-A Full Stack Python Application for an art museum to maintain information about their art objects database. The application interfaces a database that we designed and created in MySQL to hold the required information, while the Python application was used for data entry, maintenance, and information retrieval.
+Designed and developed a comprehensive MySQL-backed application to streamline the management of an art museum's diverse collection and exhibitions. The system, built in Python, integrates an Enhanced Entity-Relationship (EER) diagram transformed into a relational data model. It features a multi-faceted user interface, differentiating roles from administrators to end-users, enabling SQL command executions, intuitive data entry, and user-friendly database browsing. Embedded user management ensures role-specific access and secure login functionalities, enhancing both the utility and security of the platform.
 
 Notes
 
